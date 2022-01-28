@@ -60,23 +60,23 @@
 # 📜 | Términos de Uso
 <div>
   <p>
-  <h1>Introducción</h1>
+  <h4>Introducción</h4>
   <b>HawkingTTS</b> ('Bot de Discord') ofrece un servicio de <b>Text to Speech</b> para los usuarios de los distintos servidores en los que el bot esté presente puedan utilizarlo. El mismo no está afiliado a <b>Discord Inc.</b> Al utilizar éste servicio, usted está aceptando nuestra <a href = ''>Política de Privacidad</a> y los términos mencionados a continuación.<br><br>
   
   Tanto nuestros bots como nuestros servicios no están destinados para el uso de menores de 13 años, tal como lo establecen los <a href = 'https://discord.com/terms'>Términos de Servicio</a> de Discord.
-  <h1>Contenido</h1>
+  <h4>Contenido</h4>
   <ul>
     <li>Usted entiende y acepta que usted es el único responsable del uso que le dé a nuestro bot y servicio de <b>Text to Speech</b>.</li>
     <li>El bot no expresa más que un servicio de utilidad y entretenimiento para los servidores. Cualquier uso inadecuado del mismo será penado con el beto del servidor y/o los usuarios involucrados.</li>
   </ul>
-  <h1>Servicio</h1>
+  <h4>Servicio</h4>
   <ul>
     <li>Nos reservamos el derecho de cambiar o terminar las funciones proporcionadas por el bot sin notificar al usuario</li>
   </ul>
-  <h1>Servicios Pagados</h1>
+  <h4>Servicios Pagados</h4>
   <ul>
     <li>Contamos con opciones de donativos para funciones extras en el bot. El servicio pagado está disponible por el tiempo en el que se mantenga una suscripción activa.</li>
-    <li>Cualquier tipo de reembolso o ayuda de cancelación, puedes visitar nuestro <a href = ''>Servidor de Soporte</a>.</li>
+    <li>Cualquier tipo de reembolso o ayuda de cancelación, puedes visitar nuestro <a href = 'https://github.com/DanLop618/HawkingTTS/blob/main/README.md#--pol%C3%ADtica-de-privacidad'>Servidor de Soporte</a>.</li>
   </ul>
   </p>
 </div>
@@ -85,7 +85,7 @@
 <div>
   <p>
     Entendemos la importancia de la privacidad de los usuarios que usan nuestro bot. Por ello, te invitamos a que leas detenidamente nuestra <b>Política de Privacidad</b>
-    <h1>HakingTTS Recolecta por Tiempo Indefinido:</h1>
+    <h4>HakingTTS Recolecta por Tiempo Indefinido:</h4>
     <ol>
       <li>Nombre de Usuario</li>
       <li>ID de Usuario</li>
@@ -101,7 +101,7 @@
       <li>Canales de Texto de los servidores</li>
       <li>Configuración del Bot del Servidor</li>
     </ol>
-    <h1>HakingTTS No Recolecta:</h1>
+    <h4>HakingTTS No Recolecta:</h4>
     <ol>
       <li>Información no mencionada anteriormente.</li>
       <li>Contenidos de los mensajes. Estos son leídos momentáneamente para el funcionamiento del bot. Sin embargo, ningún tipo de información o contenido en ellos es recolectada.</li>
