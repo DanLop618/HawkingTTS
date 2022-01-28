@@ -98,7 +98,7 @@
           <li>Idiomas Preferidos en los Servidores</li>
         </ul>
       </li>
-      <li>Canales de Texto de los servidores</li>
+      <li>ID de los Canales de Texto de los servidores</li>
       <li>Configuración del Bot del Servidor</li>
     </ol>
     <h4>HakingTTS No Recolecta:</h4>
