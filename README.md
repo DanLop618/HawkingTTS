@@ -5,19 +5,33 @@
   HawkingTTS, además, cuenta con un sistema de **traducción** de mensajes. De esta forma los usuarios de comunidades grandes a los que les cueste un poco de trabajo comunicarse podrán enviar mensajes en su idioma natal. El bot se encargará de traducirlo y leerlo para el resto de personas. ¿No es genial?
 </p>
 
-# 🔊 | Canales de Voz Temporales a base de Comandos
+# 🔊 | Un Text to Speech Completo y Divertido
 <p>
-  Con EasyVC podrás crear canales de voz temporales usando un <b>comando</b> muy sencillo de creación.
-  <h3>Pero, ¿por qué un comando?</h3>
-  Es verdad que la mayoría de los bots de canales de voz temporales funcionan a base de un generador, que no es más que un canal de voz estático que, en el momento en que un miembro se conecta a él, lo lleva a un nuevo canal creado a partir de su conexión.
-  Estos bots tienen una desventaja muy grande, la cual es <b>las conexiones lentas</b>. <br><br>
-
-  Cuando un usuario con conexión lenta es movido de un canal de voz a otro, ocurre un bug muy común, el cual es que el usuario no logra conectarse de manera correcta al nuevo canal de voz, por lo cual éste debe desconectarse y volver a unirse al canal de voz. No parece nada tan grave, ¿verdad? Pero lo que sucede es que estos bots eliminan de manera <b>inmediata</b> los canales de voz, haciendo imposible para muchos usuarios el poder conectarse de manera correcta a su nuevo canal de voz. <br>
-
-  Con <b>EasyVC</b> en cambio, debido a ser totalmente manejado por comandos y paneles de interacción, jamás tendrás problema en crear un nuevo canal de voz y sufrir diversas desconexiones al interntar unirte al mismo. Además, EasyVC cuenta con múltiples contadores de tiempo que son <b>completamente configurables</b>. De esta forma, nuestro bot sabrá cuánto tiempo debe esperar antes de eliminar un canal de voz vacío, por poner un ejemplo.
+  Usar HawkingTTS es la cosa más sencilla del mundo, ¡en serio!
+  Todas las configuraciones funcionan en base a ` / ` **Comandos de Interacción**.
+  <h3>Pero, ¿por qué no prefijos comunes y corrientes?</h3>
+  Muy fácil. Cuando un bot tan personalizable como HawkingTTS funciona en base a prefijos comunes (!), se vuelve un dolor de cabeza enorme llevar el ritmo de cómo funcionan las cosas. Es por eso que preferí el uso de ` / ` **Comandos de Interacción**. Toda la información necesaria para cada comando se muestra inmediatamente.
+  <h3>Ok, es completo, sí, ¿pero y lo divertido?</h3>
+  Me alegra que preguntes. Lo que hace tan divertido a **HawkingTTS** es el hecho de que no hay solo una manera de usar el bot.
+  ¿Que cómo es eso? Pues si bien el bot vuelve los mensajes de los usuarios a **Text to Speech**, también puede registrar comandos personalizados, entradas de diccionario y referencias a mensajes. ¡Todo esto **completamente personalizable**!
+  
+  Esto es lo que hace a **HawkingTTS** un bot tan completo y divertido.
+  ¿Lo dudas? ¿Por qué no lo pruebas?
 </p>
 
-# 🔎 | Ejemplos
+# 🌍 | Rompe las Barreras del Idioma
+<p>
+  Como mencioné arriba, una de las funciones del bot es la traducción de mensajes para los usuarios.
+  <h3>¿Eso en qué ayuda?</h3>
+  Las comunidades grandes de Discord alojan personas de muchos países. En su mayoría, las comunidades se basan en un solo idioma, siendo el más común el **Inglés**.
+  Todo eso está bien, pero, ¿qué pasa cuando un usuario no se siente tan cómodo hablando en ese idioma, pero quiere seguir en esa comunidad? Parecen casos excepcionales, pero es más común de lo que crees.
+  
+  Con esta función, los usuarios pueden entrar a un canal de voz, escribir un texto en su idioma natal, y **HawkingTTS** traducirá y leerá su mensaje para que el resto de usuarios puedan entenderlo. De esta forma, aquellos miembros que no sean tan buenos con un idioma, se sientan algo incómodos hablando, o simplemente no quieran hacerlo podrán gozar de esta función y hablar con el resto de la comunidad sin ningún problema.
+  
+  ¿No es eso genial?
+</p>
+
+<!--🔎 | Ejemplos
 <div>
   <h3>🔊 | Creación de un canal de voz</h3>
   <p>
@@ -39,21 +53,17 @@
     Muchos comandos (próximamente más) de administración cuentan con menús de selección e interacción, lo cual hace que la configuración del bot no solo sea más intuitiva, sino que también la hace más <b>fácil</b> y <b>rápida</b>. El objetivo de estos paneles es que te olvides de usar comandos extensos y liosos sin sacrificar la potencia del bot.
   </p>
   <img src="https://i.imgur.com/hX0tNiS.gif" alt="Paneles de Configuracion">
-</div>
+</div> -->
 
 # 📖 | Documentación y Extras
 <div>
-  <h4>¡Contamos con una página hosteada por GitHub!</h4>
-  <p>
-    Todos nuestros comandos, sí, todos, están subidos allí mismo acompañados de su utilización y ejemplos para que te sea más sencillo comprenderlos.
-  </p>
   <h4>Además, ¡nuestro bot cuenta con un perfil en Top.gg!</h4>
   <p>
     No cuento con un sistema de usuarios premium ni ningún beneficio de donarme dinero. Es por eso que decidí hacer de <b>EasyVC</b> un bot 100% gratuito hasta donde se me permita. La ayuda que me darías votando por el bot será agradecida de todo corazón ❤.
   </p>
 </div>
 
-- [Documentación][4]
+<!-- - [Documentación][4] -->
 - [¡Quiero Votar!][5]
 
 # ⭐| Redes Sociales y Contacto
@@ -63,9 +73,9 @@
 
 [1]: https://twitter.com/danlop__
 [2]: https://discordapp.com/users/681624717219725312
-[3]: https://discord.gg/qXA2BbJZdu
+[3]: https://discord.gg/RBG5mtQbJV
 
-[4]: https://danlop618.github.io/EasyVC/
-[5]: https://top.gg/bot/879318859985862686/vote
+<!--[4]: https://danlop618.github.io/EasyVC/-->
+[5]: https://top.gg/bot/828540208743710741
 
 <div>Los íconos muy bonitos que acabas de ver fueron hechos por <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> y pueden encontrarlos en <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> ❤</div>
