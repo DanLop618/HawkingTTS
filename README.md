@@ -57,6 +57,61 @@
   <img src="https://i.imgur.com/hX0tNiS.gif" alt="Paneles de Configuracion">
 </div> -->
 
+# 📜 | Términos de Uso
+<div>
+  <p>
+  <h1>Introducción</h1>
+  <b>HawkingTTS</b> ('Bot de Discord') ofrece un servicio de <b>Text to Speech</b> para los usuarios de los distintos servidores en los que el bot esté presente puedan utilizarlo. El mismo no está afiliado a <b>Discord Inc.</b> Al utilizar éste servicio, usted está aceptando nuestra <a href = ''>Política de Privacidad</a> y los términos mencionados a continuación.<br><br>
+  
+  Tanto nuestros bots como nuestros servicios no están destinados para el uso de menores de 13 años, tal como lo establecen los <a href = 'https://discord.com/terms'>Términos de Servicio</a> de Discord.
+  <h1>Contenido</h1>
+  <ul>
+    <li>Usted entiende y acepta que usted es el único responsable del uso que le dé a nuestro bot y servicio de <b>Text to Speech</b>.</li>
+    <li>El bot no expresa más que un servicio de utilidad y entretenimiento para los servidores. Cualquier uso inadecuado del mismo será penado con el beto del servidor y/o los usuarios involucrados.</li>
+  </ul>
+  <h1>Servicio</h1>
+  <ul>
+    <li>Nos reservamos el derecho de cambiar o terminar las funciones proporcionadas por el bot sin notificar al usuario</li>
+  </ul>
+  <h1>Servicios Pagados</h1>
+  <ul>
+    <li>Contamos con opciones de donativos para funciones extras en el bot. El servicio pagado está disponible por el tiempo en el que se mantenga una suscripción activa.</li>
+    <li>Cualquier tipo de reembolso o ayuda de cancelación, puedes visitar nuestro <a href = ''>Servidor de Soporte</a>.</li>
+  </ul>
+  </p>
+</div>
+
+# 📃 | Política de Privacidad
+<div>
+  <p>
+    Entendemos la importancia de la privacidad de los usuarios que usan nuestro bot. Por ello, te invitamos a que leas detenidamente nuestra <b>Política de Privacidad</b>
+    <h1>HakingTTS Recolecta por Tiempo Indefinido:</h1>
+    <ol>
+      <li>Nombre de Usuario</li>
+      <li>ID de Usuario</li>
+      <li>Servidores que el bot y tú tengan en común</li>
+      <li>
+        Información proporcionada al bot mediante el uso de comandos:
+        <ul>
+          <li>Configuración del Bot Personal</li>
+          <li>Apodos del Usuario en los Servidores</li>
+          <li>Idiomas Preferidos en los Servidores</li>
+        </ul>
+      </li>
+      <li>Canales de Texto de los servidores</li>
+      <li>Configuración del Bot del Servidor</li>
+    </ol>
+    <h1>HakingTTS No Recolecta:</h1>
+    <ol>
+      <li>Información no mencionada anteriormente.</li>
+      <li>Contenidos de los mensajes. Estos son leídos momentáneamente para el funcionamiento del bot. Sin embargo, ningún tipo de información o contenido en ellos es recolectada.</li>
+      <li>Todo tipo de información extra que no sea necesario para la correcta utilización del bot.</li>
+    </ol><br><br>
+  El bot no recolecta información delicada, como lo pueden ser los contenidos de mensajes, conversaciones de los chats, imágenes de perfil, biografías de perfil, roles o discriminadores de usuarios.<br><br>
+  <b>Puedes solicitar la eliminación absoluta de tu información recabada a través de nuestro <a href = 'https://discord.gg/RBG5mtQbJV'>Servidor de Soporte</a> o enviando un mensaje privado a DanLop#6659. Una vez realizado, no podrás utilizar nuestro bot.
+  </p>
+</div>
+
 # 📖 | Documentación y Extras
 <div>
   <h4>Además, ¡nuestro bot cuenta con un perfil en Top.gg!</h4>
