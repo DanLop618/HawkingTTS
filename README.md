@@ -63,7 +63,7 @@
   <h4>Introducción</h4>
   <b>HawkingTTS</b> ('Bot de Discord') ofrece un servicio de <b>Text to Speech</b> para los usuarios de los distintos servidores en los que el bot esté presente puedan utilizarlo. El bot no está afiliado a <b>Discord Inc.</b> Al utilizar éste servicio, usted está aceptando nuestra <a href = ''>Política de Privacidad</a> y los términos mencionados a continuación.<br><br>
   
-  Tanto nuestro bots como nuestro servicio no están destinados para el uso de menores de 13 años, tal como lo establecen los <a href = 'https://discord.com/terms'>Términos de Servicio</a> de Discord.
+  Tanto nuestro bot como nuestro servicio no están destinados para el uso de menores de 13 años, tal como lo establecen los <a href = 'https://discord.com/terms'>Términos de Servicio</a> de Discord.
   <h4>Contenido</h4>
   <ul>
     <li>Usted entiende y acepta que usted es el único responsable del uso que le dé a nuestro bot y servicio de <b>Text to Speech</b>.</li>
