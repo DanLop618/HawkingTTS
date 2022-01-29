@@ -128,11 +128,9 @@
 - [¡Quiero Votar!][5]
 
 # ⭐| Redes Sociales y Contacto
-[![Twitter](https://i.imgur.com/RcqzVdz.png)][1]
 [![Discord](https://i.imgur.com/S791wZz.png)][2]
 [![Support Server](https://i.imgur.com/xQURKei.png)][3]
 
-[1]: https://twitter.com/danlop__
 [2]: https://discordapp.com/users/681624717219725312
 [3]: https://discord.gg/RBG5mtQbJV
 
