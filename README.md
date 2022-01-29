@@ -101,6 +101,7 @@
       <li>ID de los Canales de Texto de los servidores</li>
       <li>Configuración del Bot del Servidor</li>
     </ol>
+    Hasta antes de llegar a 100 servidores, el bot registraba los datos de todos los miembros del servidor. Sin embargo, a partir del 28/Enero/2022, pensando en la importancia de los datos de los usuarios de Discord, esto fue modificado y ahora solo aquellas personas que usen nuestro bot a través de comandos o servicio de Tex to Speech serán registrados en nuestra base de datos.
     <h4>HakingTTS No Recolecta:</h4>
     <ol>
       <li>Información no mencionada anteriormente.</li>
