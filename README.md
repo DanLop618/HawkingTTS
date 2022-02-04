@@ -1,23 +1,23 @@
-# 👋🏻 | ¡Hola! Te presentamos a HawkingTTS
+# 👋🏻 | ¡Hola! Te presentamos a Hawking's
 <p>
   Es un bot de Discord intencionado al ámbito del <b>Text to Speech</b>.<br>
   Cualquier usuario puede enviar mensajes de texto a voz con su idioma preferido y la voz modulada que más le guste.<br><br>
 
-  HawkingTTS, además, cuenta con un sistema de <b>traducción</b> de mensajes.<br>
+  Hawking's, además, cuenta con un sistema de <b>traducción</b> de mensajes.<br>
   De esta forma los usuarios de comunidades grandes a los que les cueste un poco de trabajo comunicarse podrán enviar mensajes en su idioma natal. El bot se encargará de traducirlo y leerlo para el resto de personas. ¿No es genial?
 </p>
 
 # 🔊 | Un Text to Speech Completo y Divertido
 <p>
-  Usar HawkingTTS es la cosa más sencilla del mundo, ¡en serio!<br>
+  Usar Hawking's es la cosa más sencilla del mundo, ¡en serio!<br>
   Todas las configuraciones funcionan en base a <em> / </em> <b>Comandos de Interacción</b>.
   <h3>Pero, ¿por qué no prefijos comunes y corrientes?</h3>
-  Muy fácil. Cuando un bot tan personalizable como HawkingTTS funciona en base a prefijos comunes (!), se vuelve un dolor de cabeza enorme llevar el ritmo de cómo funcionan las cosas. Es por eso que preferí el uso de <em> / </em> <b>Comandos de Interacción</b>. Toda la información necesaria para cada comando se muestra inmediatamente.
+  Muy fácil. Cuando un bot tan personalizable como Hawking's funciona en base a prefijos comunes (!), se vuelve un dolor de cabeza enorme llevar el ritmo de cómo funcionan las cosas. Es por eso que preferí el uso de <em> / </em> <b>Comandos de Interacción</b>. Toda la información necesaria para cada comando se muestra inmediatamente.
   <h3>Ok, es completo, sí, ¿pero y lo divertido?</h3>
-  Me alegra que preguntes. Lo que hace tan divertido a <b>HawkingTTS</b> es el hecho de que no hay solo una manera de usar el bot.<br>
+  Me alegra que preguntes. Lo que hace tan divertido a <b>Hawking's</b> es el hecho de que no hay solo una manera de usar el bot.<br>
   ¿Que cómo es eso? Pues si bien el bot vuelve los mensajes de los usuarios a <b>Text to Speech</b>, también puede registrar comandos personalizados, entradas de diccionario y referencias a mensajes. ¡Todo esto <b>completamente personalizable</b>!
   
-  Esto es lo que hace a <b>HawkingTTS</b> un bot tan completo y divertido.
+  Esto es lo que hace a <b>Hawking's</b> un bot tan completo y divertido.
   ¿Lo dudas? ¿Por qué no lo pruebas?
 </p>
 
@@ -28,7 +28,7 @@
   Las comunidades grandes de Discord alojan personas de muchos países. En su mayoría, las comunidades se basan en un solo idioma, siendo el más común el <b>Inglés</b>.<br>
   Todo eso está bien, pero, ¿qué pasa cuando un usuario no se siente tan cómodo hablando en ese idioma, pero quiere seguir en esa comunidad? Parecen casos excepcionales, pero es más común de lo que crees.<br><br>
   
-  Con esta función, los usuarios pueden entrar a un canal de voz, escribir un texto en su idioma natal, y <b>HawkingTTS</b> traducirá y leerá su mensaje para que el resto de usuarios puedan entenderlo. De esta forma, aquellos miembros que no sean tan buenos con un idioma, se sientan algo incómodos hablando, o simplemente no quieran hacerlo podrán gozar de esta función y hablar con el resto de la comunidad sin ningún problema.<br><br>
+  Con esta función, los usuarios pueden entrar a un canal de voz, escribir un texto en su idioma natal, y <b>Hawking's</b> traducirá y leerá su mensaje para que el resto de usuarios puedan entenderlo. De esta forma, aquellos miembros que no sean tan buenos con un idioma, se sientan algo incómodos hablando, o simplemente no quieran hacerlo podrán gozar de esta función y hablar con el resto de la comunidad sin ningún problema.<br><br>
   
   ¿No es eso genial?
 </p>
@@ -61,7 +61,7 @@
 <div>
   <p>
   <h4>Introducción</h4>
-  <b>HawkingTTS</b> ('Bot de Discord') ofrece un servicio de <b>Text to Speech</b> para los usuarios de los distintos servidores en los que el bot esté presente puedan utilizarlo. El bot no está afiliado a <b>Discord Inc.</b> Al utilizar éste servicio, usted está aceptando nuestra <a href = ''>Política de Privacidad</a> y los términos mencionados a continuación.<br><br>
+  <b>Hawking's</b> ('Bot de Discord') ofrece un servicio de <b>Text to Speech</b> para los usuarios de los distintos servidores en los que el bot esté presente puedan utilizarlo. El bot no está afiliado a <b>Discord Inc.</b> Al utilizar éste servicio, usted está aceptando nuestra <a href = ''>Política de Privacidad</a> y los términos mencionados a continuación.<br><br>
   
   Tanto nuestro bot como nuestro servicio no están destinados para el uso de menores de 13 años, tal como lo establecen los <a href = 'https://discord.com/terms'>Términos de Servicio</a> de Discord.
   <h4>Contenido</h4>
