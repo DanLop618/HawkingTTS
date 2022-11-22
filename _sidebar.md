@@ -1,5 +1,5 @@
-- [Home](/?id=presentamos-a-hawking39s "Hawking's")
-- [Premium](patreon.md)
+- [Home](home.md/?id=introducing-hawking39s "Hawking's")
+- [Premium](patreon.md#premium-features)
 - [Tutorials](texttospeech.md)
 - [Legals](legals.md#terms-of-use)
   <!-- - [Text to Speech](texttospeech.md)

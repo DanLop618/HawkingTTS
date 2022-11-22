@@ -1,4 +1,4 @@
-![logo](../media/logo.png)
+![logo](../assets/logo.png)
 
 # Hawking's
 
@@ -9,5 +9,7 @@
 - • Utilidades de Voz
 - • Voz a Texto
 
-[Documentación](/es/?id=presentamos-a-hawking39s)
+[Documentación](/es/home?id=presentamos-a-hawking39s)
 [Invitar](https://discord.com/oauth2/authorize?client_id=828540208743710741&permissions=871722000&scope=bot%20applications.commands)
+
+![](../assets/background.png)
